@@ -9,5 +9,3 @@ Meu nome e Lucas
 ## Caso queira entrar em contato com migo
 
 tiolubimhas@gmail.com
-
-![](https://media1.tenor.com/m/3toQH2wp2PkAAAAd/initial-d-toyota.gif)
