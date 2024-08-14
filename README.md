@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindo ao meu perfil !!
 
-<!--
-**tio-lubimhas/tio-lubimhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Lucas 
+- Estou estudando sozinho
+- Estou aprendendo a linguagem java script,pyton e gml
+- Utilizo esse espaço para minha organizaçao e para ver projetos
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Caso queira entrar em contato com migo
+
+tiolubimhas@gmail.com
+
+![](https://media1.tenor.com/m/3toQH2wp2PkAAAAd/initial-d-toyota.gif)
