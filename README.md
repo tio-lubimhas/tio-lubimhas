@@ -10,4 +10,4 @@ Meu nome e Lucas
 
 tiolubimhas@gmail.com
 
-![](ttps://media1.tenor.com/m/BDbkNDW7kx8AAAAC/trueno.gif)
+![descrição do GIF](https://media1.tenor.com/m/BDbkNDW7kx8AAAAC/trueno.gif)
