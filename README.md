@@ -9,3 +9,5 @@ Meu nome e Lucas
 ## Caso queira entrar em contato com migo
 
 tiolubimhas@gmail.com
+
+![](ttps://media1.tenor.com/m/BDbkNDW7kx8AAAAC/trueno.gif)
